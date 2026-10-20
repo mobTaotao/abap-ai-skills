@@ -1,4 +1,4 @@
-# Codex ABAP Skills
+# AI ABAP Skills
 
 适用于 SAP ABAP 的经典报表、FORM/PERFORM、Open SQL、ALV、
 BAPI/BDC、SmartForms 等开发场景。
