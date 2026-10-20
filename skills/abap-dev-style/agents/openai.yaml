@@ -1,0 +1,7 @@
+interface:
+  display_name: "SAP ABAP Coder"
+  short_description: "Draft ABAP in your local report style"
+  default_prompt: "Use $abap-dev-style to draft or adjust SAP ABAP code in my workspace style."
+
+policy:
+  allow_implicit_invocation: true
